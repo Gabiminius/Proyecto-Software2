@@ -6,4 +6,5 @@
 * permitir seguimiento de casos especificos (funcionario , involucrado y apoderado)
 * mostrar incidentes por curso/alumno (funcionarios/apoderados para alumno)
 * filtrar por tipo del incidente (funcionarios)
-  
+## Diagrama Casos de uso 
+![version1 (27/03)](diagrama.png)
